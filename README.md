@@ -1,5 +1,5 @@
 # Todo-List
-React application in which user can add what they want to do. User can tick there work after completion and they can also delete there work. the data is stored in local storage of browser.
+React application in which user can add what they want to do. User can tick there work after completion and they can also delete there work. The data which user want to do is stored in local storage of browser itself.
 
 ## Installation and Setup Instructions
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
