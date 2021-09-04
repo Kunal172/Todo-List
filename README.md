@@ -4,14 +4,17 @@ React application in which user can add what they want to do. User can tick ther
 ## Installation and Setup Instructions
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
-### Installation:
-
+Installation:
 `npm install`
 
-### Run the app in development mode
+<hr>
+
+## Run the app in development mode
 `npm start`
 
 Open http://localhost:3000 to view it in the browser.
 
-### Build a deployment-ready production build
+<hr>
+
+## Build a deployment-ready production build
 `npm run build`
