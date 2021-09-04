@@ -5,6 +5,7 @@ React application in which user can add what they want to do. User can tick ther
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
 Installation:
+
 `npm install`
 <br>
 
